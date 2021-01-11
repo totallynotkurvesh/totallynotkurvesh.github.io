@@ -1,10 +1,15 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
-  logo: uob.png
+- course: B.Tech Computer Engineering
+  institute: Nirma University
+  dates: 2017 - 2021 (Expected)
+  logo: nu.png
   
-- course: Explorer Fellow
-  institute: MLH Fellowship
-  dates: Fall 2020
-  logo: fellowship.svg
+- course: HSC(12th)
+  institute: Green Valley High School 
+  dates: 2016 - 2017
+  logo: gvh.jpg
+
+- course: SSC(10th)
+  institute: Jawahar Navodaya Vidhyalaya
+  dates: 2014 - 2015
+  logo: jnv.jpg
   
